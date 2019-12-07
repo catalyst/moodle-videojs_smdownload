@@ -22,7 +22,7 @@
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$string['pluginname'] = 'Download videos';
+$string['pluginname'] = 'Smartmedia Download videos';
 $string['privacy:metadata'] = 'This plugin does not store any personal data.';
 
-$string['smdownload'] = 'Download video';
+$string['smdownload'] = 'Smartmedia Download video';

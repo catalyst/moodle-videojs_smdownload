@@ -24,8 +24,8 @@
 
 defined('MOODLE_INTERNAL') || die;
 
-$plugin->version   = 2019120300;
-$plugin->release   = '2019120300';
+$plugin->version   = 2019121100;
+$plugin->release   = '2019121100';
 $plugin->maturity  = MATURITY_STABLE;
 $plugin->requires  = 2019051100; // Requires this Moodle version.
 $plugin->component = 'videojs_smdownload';
